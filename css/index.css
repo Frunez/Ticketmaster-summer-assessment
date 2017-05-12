@@ -1,9 +1,4 @@
-/* navbar */
-.navbar-brand {
-  padding: 0;
-  border: 0;
-  margin-left: 0;
-}
+/* body */
 
 .row {
   padding-left: 15px;
@@ -12,9 +7,14 @@
 
 .container {}
 
-#logo {
-  height: 100%;
+
+/* header image */
+
+#header-img {
+  width: 100%;
 }
+
+/* navbar */
 
 #main-nav {
   margin: 0;
@@ -24,6 +24,30 @@
   background-color: #414141;
 }
 
-#header-img {
-  width: 100%;
+.navbar-brand {
+  padding: 0;
+  border: 0;
+  margin-left: 0;
+}
+
+#logo {
+  height: 100%;
+}
+
+/* festival list */
+
+.festival {
+  background-color: #414141;
+}
+
+.festival-name {
+  width: 25%;
+}
+
+.festival-location {
+  width: 25%;
+}
+
+.festival-date {
+  text-align: right;
 }

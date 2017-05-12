@@ -1,0 +1,21 @@
+festivals = [{
+          "name": "Summer Fest 2017",
+          "date": "15 July 2017",
+          "location": "Regents Park, London, UK",
+          "url": "/festivals/info/summer-fest-2017",
+          "sold-out": false
+        },
+        {
+          "name": "Music and Beer",
+          "date": "21-24 August 2017",
+          "location": "12 Beer Palace, Beachside, Abroad",
+          "url": "/festivals/info/music-and-beer",
+          "sold-out": false
+        },
+        {
+          "name": "Rock Werchter 2017",
+          "date": "27-29 June 2017",
+          "location": "25 Festival Straat, Werchter, Belgium",
+          "url": "/festivals/info/rock-vector-2017",
+          "sold-out": true
+        }]
