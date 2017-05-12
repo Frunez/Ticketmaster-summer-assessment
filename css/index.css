@@ -1,0 +1,29 @@
+/* navbar */
+.navbar-brand {
+  padding: 0;
+  border: 0;
+  margin-left: 0;
+}
+
+.row {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.container {}
+
+#logo {
+  height: 100%;
+}
+
+#main-nav {
+  margin: 0;
+  border-radius: 0;
+  border-color: #414141;
+  padding: 0;
+  background-color: #414141;
+}
+
+#header-img {
+  width: 100%;
+}
