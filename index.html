@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <div class="container" id="header">
+    <div class="container">
         <!-- header -->
         <div class="row">
             <img id="header-img" class="img-responsive" src="img/Summer17_MasterHeader.jpg" alt="">
@@ -23,17 +23,15 @@
             </div>
         </div>
         <!-- divider -->
-        <section class="divider">
+        <div class="content">
             <h1 class="list-header">Summer Festivals 2017</h1>
-        </section>
         <!-- list -->
-        <section class="content">
-            <div class="col-md-8 col-md-offset-2">
-                <ul class="list-group" id="festival-list">
-                </ul>
-            </div>
-        </section>
-    </div>
+            <ul id="festival-list">
+            </ul>
+        </div>
+        <div class="images" id="image-viewer">
+        </div>
+      </div>
     <!-- scripts -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
@@ -42,6 +40,7 @@
     <script type="text/javascript">
         var displayFestivalList = new FestivalList();
         document.getElementById("festival-list").innerHTML = displayFestivalList.list();
+        document.getElementById("image-viewer").innerHTML = displayFestivalList.images();
     </script>
 </body>
 

@@ -18,4 +18,89 @@ festivals = [{
           "location": "25 Festival Straat, Werchter, Belgium",
           "url": "/festivals/info/rock-vector-2017",
           "sold-out": true
+        },
+        {
+          "name": "Example filler",
+          "date": "21 Month 2017",
+          "location": "Street, City, Country",
+          "url": "/url/of/festival/info",
+          "sold-out": false
+        },
+        {
+          "name": "Example filler",
+          "date": "21 Month 2017",
+          "location": "Street, City, Country",
+          "url": "/url/of/festival/info",
+          "sold-out": false
+        },
+        {
+          "name": "Example filler",
+          "date": "21 Month 2017",
+          "location": "Street, City, Country",
+          "url": "/url/of/festival/info",
+          "sold-out": false
+        },
+        {
+          "name": "Example filler",
+          "date": "21 Month 2017",
+          "location": "Street, City, Country",
+          "url": "/url/of/festival/info",
+          "sold-out": false
+        },
+        {
+          "name": "Example filler",
+          "date": "21 Month 2017",
+          "location": "Street, City, Country",
+          "url": "/url/of/festival/info",
+          "sold-out": false
+        },
+        {
+          "name": "Example filler",
+          "date": "21 Month 2017",
+          "location": "Street, City, Country",
+          "url": "/url/of/festival/info",
+          "sold-out": false
+        },
+        {
+          "name": "Example filler",
+          "date": "21 Month 2017",
+          "location": "Street, City, Country",
+          "url": "/url/of/festival/info",
+          "sold-out": false
+        },
+        {
+          "name": "Example filler",
+          "date": "21 Month 2017",
+          "location": "Street, City, Country",
+          "url": "/url/of/festival/info",
+          "sold-out": false
+        },
+        {
+          "name": "Example filler",
+          "date": "21 Month 2017",
+          "location": "Street, City, Country",
+          "url": "/url/of/festival/info",
+          "sold-out": false
+        },
+        {
+          "name": "Example filler",
+          "date": "21 Month 2017",
+          "location": "Street, City, Country",
+          "url": "/url/of/festival/info",
+          "sold-out": false
         }]
+
+images = [
+  {
+    "name": "Goldfrapp Live @ Rockmuse 2016",
+    "url": "https://londongigger.files.wordpress.com/2013/11/dscf9088.jpg"
+  },
+  {
+    "name": "M.I.A Live @ Rockmuse 2016",
+    "url": "http://www.genestout.com/wp-content/uploads/mia004.jpg"
+  },
+  {
+    "name": "Radiohead Live @ Summer Fest 2016",
+    "url":"http://www.dirkahlgrim.com/wordpress/wp-content/uploads/2012/06/Radiohead-4.jpg"
+  }
+]
