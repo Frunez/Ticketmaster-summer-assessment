@@ -1,0 +1,113 @@
+festivals = [{
+        "name": "Summer Fest 2017",
+        "date": "15 June",
+        "location": "Victoria Park",
+        "url": "/festivals/info/summer-fest-2017",
+        "sold-out": false
+    },
+    {
+        "name": "Music and Beer",
+        "date": "21-24 June",
+        "location": "Cambridge",
+        "url": "/festivals/info/music-and-beer",
+        "sold-out": false
+    },
+    {
+        "name": "Rock Werchter 2017",
+        "date": "27-29 June",
+        "location": "Werchter",
+        "url": "/festivals/info/rock-werchter-2017",
+        "sold-out": true
+    },
+    {
+        "name": "Zommer Von Brussel",
+        "date": "3-4 July",
+        "location": "Brussels",
+        "url": "/url/of/festival/info",
+        "sold-out": false
+    },
+    {
+        "name": "La Fiesta Caliente",
+        "date": "9-11 July",
+        "location": "Madrid",
+        "url": "/url/of/festival/info",
+        "sold-out": false
+    },
+    {
+        "name": "Love Festival",
+        "date": "20 July",
+        "location": "Berlin",
+        "url": "/url/of/festival/info",
+        "sold-out": false
+    },
+    {
+        "name": "Love Music",
+        "date": "24 July",
+        "location": "Bristol",
+        "url": "/url/of/festival/info",
+        "sold-out": false
+    },
+    {
+        "name": "Rockmuse",
+        "date": "7 August",
+        "location": "Lyon",
+        "url": "/url/of/festival/info",
+        "sold-out": false
+    },
+    {
+        "name": "The Vibe 2017",
+        "date": "7-10 August",
+        "location": "Prague",
+        "url": "/url/of/festival/info",
+        "sold-out": false
+    },
+    {
+        "name": "Woodstock Poland",
+        "date": "15-19 August",
+        "location": "Kustrin",
+        "url": "/url/of/festival/info",
+        "sold-out": false
+    },
+    {
+        "name": "Dance2Beatz",
+        "date": "21 August",
+        "location": "Victoria Park",
+        "url": "/url/of/festival/info",
+        "sold-out": false
+    },
+    {
+        "name": "Hip Hop Nation",
+        "date": "23 August",
+        "location": "Antwerp",
+        "url": "/url/of/festival/info",
+        "sold-out": false
+    },
+    {
+        "name": "Rock-A-Thon",
+        "date": "27 August",
+        "location": "Paris",
+        "url": "/url/of/festival/info",
+        "sold-out": false
+    },
+    {
+        "name": "Virgin V Festival 2017",
+        "date": "9 September",
+        "location": "Chelmsford",
+        "url": "/url/of/festival/info",
+        "sold-out": false
+    },
+    {
+        "name": "Reading Festival 2017",
+        "date": "18 September",
+        "location": "Reading",
+        "url": "/url/of/festival/info",
+        "sold-out": false
+    },
+    {
+        "name": "Back2School",
+        "date": "28-29 September",
+        "location": "Brussels",
+        "url": "/url/of/festival/info",
+        "sold-out": false
+    }
+]

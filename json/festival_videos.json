@@ -1,0 +1,25 @@
+videos = [{
+    "name": "Flying Lotus Live @ Dance2Beatz 2016",
+    "embed": "https://www.youtube.com/embed/R-u_7FcViBs"
+},
+{
+    "name": "Kasabian Live @ Rockmuse 2016",
+    "embed": "https://www.youtube.com/embed/_nteNxQEV4U"
+},
+{
+    "name": "Jon Hopkins Live @ Summer Fest 2016",
+    "embed": "https://www.youtube.com/embed/Q8gKSrpJsg4"
+},
+{
+    "name": "Gorillaz Live @ Love Festival 2016",
+    "embed": "https://www.youtube.com/embed/xxLWuM_SHcI"
+},
+{
+    "name": "A Tribe Callede Quest Live @ Hip Hop Nation 2016",
+    "embed": "https://www.youtube.com/embed/shsq6nsXYcg"
+},
+{
+    "name": "FKA Twigs Live @ The Vibe 2016",
+    "embed": "https://www.youtube.com/embed/p7E4JXnMEec"
+}
+]
